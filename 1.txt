@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 My name is Anup
 I am Kumar
+=======
+>>>>>>> parent of dd3324b...  Edited
